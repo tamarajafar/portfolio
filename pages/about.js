@@ -27,7 +27,7 @@ export default function About() {
   return (
     <Page
       title="About Me"
-      description="Aaron Porter is an independent designer & technologist. Previously at Carefull, TTF, & Google."
+      description="Tamara is a PhD student and UC Berkeley graduate."
     >
       <Landing>
         <Content>
@@ -36,12 +36,12 @@ export default function About() {
               preset="xLargeHeading"
               css={{ maxWidth: "30ch", width: "100%" }}
             >
-              Aaron Porter is a designer & technologist. Previously at{" "}
-              <Link href="https://getcarefull.com">Carefull</Link>,{" "}
-              <Link href="https://truetoform.design">TTF</Link>, &{" "}
-              <Link href="https://google.com">Google</Link>.
+              Tamara is a researcher & bioinformatics scienist. Previously at{" "}
+              <Link href="https://www.atlasxomics.com/?gclid=CjwKCAjwkY2qBhBDEiwAoQXK5WmaAoGsQWqzpOwtbGJYfyJ6lrmzX3ChxHal3ajbA-LQ0_DKSTpM5BoCKmQQAvD_BwE">AtlasXomics</Link>,{" "}
+              <Link href="https://medicine.yale.edu/lab/ynn/">Yale</Link>, &{" "}
+              <Link href="https://google.com">Berkeley</Link>.
               <br />
-              Now independent.
+              Now computational neuroscience PhD student at USC.
               <br />
             </Text>
           </Box>
@@ -49,9 +49,7 @@ export default function About() {
             <Text preset="subHeading">A bit about me</Text>
             <Grid columns={2} gapSize="large">
               <Text css={{ color: "$gray300" }}>
-                I started designing at 13. Living in a rural area with a limited
-                internet connection, I lugged our family’s iMac to a friend’s
-                house to download a (totally legal) copy of adobe illustrator.{" "}
+                Building biotech community at Nucleate.{" "}
                 <br />
                 <br />
                 I’ve approached my career since then with a similar amount of
