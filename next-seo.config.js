@@ -1,15 +1,15 @@
 export default {
-  titleTemplate: "%s — Aaron Porter",
-  defaultTitle: "Aaron Porter — Designer & Technologist",
+  titleTemplate: "%s — Tamara Jafar",
+  defaultTitle: "Tamara Jafar",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://www.aaronporter.co/",
-    site_name: "Aaron porter",
+    url: "https://www.tamarajafar.co/",
+    site_name: "Tamara Jafar",
   },
   twitter: {
-    handle: "@aaron_porter",
-    site: "@aaron_porter",
+    handle: "@tamarajafar",
+    site: "@tamarajafar",
     cardType: "summary_large_image",
   },
 };
