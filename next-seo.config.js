@@ -4,7 +4,7 @@ export default {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "tamarajafar.github.io",
+    url: "https://tamarajafar.github.io/",
     site_name: "Tamara Jafar",
   },
   twitter: {
